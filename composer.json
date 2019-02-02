@@ -2,9 +2,11 @@
     "name": "xiaoqiangqiang/study",
     "authors": [
         {
-            "name": "xiaoqinagMac",
+            "name": "xiaoqiang",
             "email": "314801013@qq.com"
         }
     ],
-    "require": {}
+    "require": {
+        "overtrue/wechat":"~4.0"
+    }
 }
